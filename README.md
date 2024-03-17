@@ -2,6 +2,8 @@
 
 Add an Event System to your game in Unity to reduce dependencies and improve maintainability.
 
+Watch the video tutorial here 👉 : https://youtu.be/LyIu06jl7To
+
 <br />
 <br />
 
