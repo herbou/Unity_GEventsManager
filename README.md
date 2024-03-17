@@ -82,6 +82,10 @@ private void On_Player_Health_Damaged_Handler(GData data) {
     float current_health = data.Get<float>(0);
     float initial_health = data.Get<float>(1);
 
+    // Or use var keyword :
+    // var current_health = data.Get<float>(0);
+    // var initial_health = data.Get<float>(1);
+
     // do something...
 }
 ```
