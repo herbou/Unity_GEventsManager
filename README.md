@@ -5,6 +5,8 @@ Add an Event System to your game in Unity to reduce dependencies and improve mai
 <br />
 <br />
 
+# Documentation :
+
 ## 🟦 1. Add the ```Game_Events_Manager.unitypackage``` package to your game.
 
 <br />
@@ -66,7 +68,6 @@ This code triggers the `Player_Health_Damaged` event, passing two pieces of info
   
   `1`. the initial health value (100).
 
-
 <br />
 
 ### ◪ Get the data in the callback :
@@ -111,82 +112,8 @@ private void OnDisable() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br>
+<br><br>
+## ❤️ Donate
+
+<a href="https://paypal.me/hamzaherbou" title="https://paypal.me/hamzaherbou" target="_blank"><img align="left" height="50" src="https://www.mediafire.com/convkey/72dc/iz78ys7vtfsl957zg.jpg" alt="Paypal"></a>
