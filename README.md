@@ -66,7 +66,7 @@ GEventsManager.Invoke(GEvents.Player_Health_Damaged, new GData(health, 100));
 This code triggers the `Player_Health_Damaged` event, passing two pieces of information using a `GData` object : 
 
 
-  `0`. the player's current health
+  `0`. the player's current health after damage
   
   `1`. the initial health value (100).
 
